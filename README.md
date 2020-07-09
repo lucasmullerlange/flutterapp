@@ -1,12 +1,6 @@
 <p> This repository to IOS OR Android </p>
 
-  <img src="IOSAPP.png" width="300">
-
-
-<img src="iosstart.png" width="300" text-align="right">
-
-
-
+<img src="IOSAPP.png" width="350"> <img src="iosstart.png" width="350" text-align="right">
 
 
 
