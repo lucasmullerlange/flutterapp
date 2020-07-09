@@ -1,10 +1,9 @@
 This repository to IOS OR Android 
-<p align="left">
+<p align="center">
   <img src="IOSAPP.png" width="300">
-</p>
-<p align="right">
   <img src="iosstart.png" width="300">
 </p>
+
 
 
 
