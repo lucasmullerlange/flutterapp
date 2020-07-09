@@ -1,4 +1,6 @@
-<p> This repository to IOS OR Android </p>
+<h1 style="color:red"> Repository made on .dart (flutter sdk) 
+  
+   Flutter is a framework by google 
 
 <img src="IOSAPP.png" width="350">  <img src="iosstart.png" width="350"> 
 
