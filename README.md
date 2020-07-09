@@ -1,5 +1,5 @@
 This repository to IOS OR Android 
-<p align="center">
+<p align="left">
   <img src="IOSAPP.png" width="300">
 </p>
 
