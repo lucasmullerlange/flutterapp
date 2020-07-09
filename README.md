@@ -1,4 +1,4 @@
-This repository to IOS OR Android 
+<p> This repository to IOS OR Android </p>
 <p align="center">
   <img src="IOSAPP.png" width="300">
   <img src="iosstart.png" width="300" text-align="right">
