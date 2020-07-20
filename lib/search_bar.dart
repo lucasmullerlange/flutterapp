@@ -21,7 +21,7 @@ class _SearchAppBarState extends State<SearchAppBar> {
   @override
   Widget build(BuildContext context) {
     return new  MaterialApp(
-      title: "My App 2019",
+      title: "My App 2020",
       home: Scaffold(
         appBar: AppBar(
             elevation: 1,
