@@ -7,6 +7,6 @@
 
 
 
-![Issues](https://img.shields.io/github/issues/lucasmullerlange/curriculolucaslange)
+
 
 ![followers](https://img.shields.io/github/followers/lucasmullerlange?style=social)
